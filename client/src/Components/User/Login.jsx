@@ -20,12 +20,6 @@ export default class Login extends Component {
   render() {
     return (
       <div>
-            <div>
-              <h1 style={{ color: "black", backgroundColor: "#ffcc00" }}>
-                LOGIN
-              </h1>
-              <p>We are HAPPY to have you back</p>
-            </div>
 
         <Container
           style={{ marginTop: "20px", marginBottom: "30px", width: "40%" }}

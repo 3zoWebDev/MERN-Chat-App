@@ -37,11 +37,11 @@ const Welcome = () => {
       </div>
       <div
         style={{
-          backgroundColor: "black",
-          height: "100px",
+          backgroundColor: "blue",
+          height: "100%",
           width: "100%",
           color: "white",
-          padding: "30px",
+          padding: "20px",
           textAlign: "center",
         }}
       >

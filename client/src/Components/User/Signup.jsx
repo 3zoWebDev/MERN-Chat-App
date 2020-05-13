@@ -29,12 +29,7 @@ export default class Signup extends Component {
     console.log(this.state);
     return (
         <div>
-          <div>
-              <h1 style={{ color: "black", backgroundColor: "#ffcc00" }}>
-                SIGN-UP
-              </h1>
-              <p>We will be HAPPY to have you in our classes</p>
-            </div>
+         
 
         <Container
           style={{ marginTop: "20px", marginBottom: "30px", width: "40%" }}

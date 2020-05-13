@@ -52,12 +52,11 @@ export default class Nave extends Component {
         {/*  style={{ backgroundColor: "hsla(0, 0%, 0%, 0)" }} */}
         <Navbar style={{ backgroundColor: "blue" }} variant="dark">
           <Nav className="mr-auto">
+            <Nav.Link as={Link} to="/">
             <Navbar.Brand>
               <img src={`${chat}`} width="40px" height="40px" />{" "}
               <span style={{ marginLeft: "5px" }}>Online-Chat</span>
             </Navbar.Brand>
-            <Nav.Link as={Link} to="/">
-              HOME
             </Nav.Link>
           </Nav>
           <Nav>{authNavDetails}</Nav>

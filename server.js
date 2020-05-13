@@ -15,7 +15,7 @@ const { addUser , removeUser , getUser , getUsersInRoom } = require("./Users")
 
 mongoose
   .connect(
-    process.env.MONGODB,
+    "mongodb://user123:user123@ds025792.mlab.com:25792/heroku_z3nzhglr",
     {
     useUnifiedTopology: true,
     useNewUrlParser: true,

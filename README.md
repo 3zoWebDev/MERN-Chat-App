@@ -11,6 +11,13 @@ MERN STACK - Real Time Chat App - Software Engineering immersive <a href="https:
 
 ## :computer: MERN Stack Project
 
+
+![Chat Application](https://imgur.com/kZx0iIQ.png)
+
+
+
+
+
 ## Prerequisites
 
 - Git [Git](https://git-scm.com)
